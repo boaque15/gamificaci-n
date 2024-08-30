@@ -33,3 +33,6 @@ body {
 .navbar ul li a:hover {
     background-color: #218838; /* Un tono más oscuro de verde */
 }
+.lol{
+    background-attachment: fixed;
+}
